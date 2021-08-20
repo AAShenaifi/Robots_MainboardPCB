@@ -11,7 +11,7 @@
   
 --------------------------------------------------------------
   # الشرح
- [EasyEDA](https://easyeda.com/ar) [<img align="left" alt="EasyEDA" width="26px" src="https://user-images.githubusercontent.com/85587466/130172361-d7b6323f-db54-4029-a37a-1e9d678a97bb.png" />][EasyEDA] حيث تم تصميم الدائرة من خلال برنامج  
+ [EasyEDA](https://easyeda.com/ar) [<img align="left" alt="EasyEDA" width="26px" src="https://user-images.githubusercontent.com/85587466/130172361-d7b6323f-db54-4029-a37a-1e9d678a97bb.png" />][EasyEDA]  تم تصميم الدائرة من خلال برنامج  
   <br />
   
  shield بحيث تمثل دائرة ملحقة 
